@@ -65,8 +65,10 @@ You can find detailed EDA reports in the `eda_reports/` folder:
 Due to GitHub’s file size limit, these files are available in the repository as `.zip' files. 
 
 Please find their Google Drive links here: 
+
 [Credit Card Fraud EDA Report](https://drive.google.com/file/d/1--IGCaNMtc4iftLoQSb873tqKfC-GUYc/view?usp=drivesdk)
-[Credit Card Fraud Sweetiz Report](https://drive.google.com/file/d/131x7lTeph8pfJ_jK4CQVnZZRzLr27fWF/view?usp=drivesdk)
+
+[Credit Card Fraud Sweetviz Report](https://drive.google.com/file/d/131x7lTeph8pfJ_jK4CQVnZZRzLr27fWF/view?usp=drivesdk)
 
 
 ---
