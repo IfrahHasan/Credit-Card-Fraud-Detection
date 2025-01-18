@@ -6,11 +6,20 @@ This project uses **machine learning ensembles** to detect fraudulent credit car
 
 ## Folder Structure
 
-credit-card-fraud-detection/	Root directory of the project
-├── 📂 dataset/	Folder containing the dataset
-│ ├── creditcard.csv (Git LFS or Google Drive link)	The dataset (150.3MB, too large for direct GitHub upload)
-├── 📂 eda_reports/	Folder containing Exploratory Data Analysis (EDA) reports
-│ ├── credit_card_fraud_eda_report.html (Google Drive link)	Pandas Profiling EDA report
+## Folder Structure
+
+| Folder/File            |         Description                                     |
+|------------------------|---------------------------------------------------------|
+| `data/`                | Contains the output (zipped)                            |
+| ├── `results.zip`      | Credit card fraud detection outputs                     |
+| `main_pipeline.ipynb`  | Jupyter Notebook with full training pipeline            |
+| `requirements.txt`     | List of required Python libraries with versioning       |
+| `LICENSE`              | License file (MIT License)                              |
+| `README.md`            | Project documentation, installation steps and dataset   |
+| ├── `EDA Report`       | Detailed Pandas Profiling EDA report (Google Drive link)|
+| ├── `Sweetviz Report`  | Automated Sweetviz EDA report (Google Drive link)       |
+| ├── `Dataset`          | Credit Card Fraud Dataset (Linked)                      |
+
 ---
 
 ## Dataset
