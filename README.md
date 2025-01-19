@@ -6,8 +6,6 @@ This project uses **machine learning ensembles** to detect fraudulent credit car
 
 ## Folder Structure
 
-## Folder Structure
-
 | Folder/File            |         Description                                     |
 |------------------------|---------------------------------------------------------|
 | `data/`                | Contains the output (zipped)                            |
@@ -57,7 +55,7 @@ The dataset is provided by [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfra
 
 ---
 
-## 📂 Reports
+## Reports
 You can find detailed EDA reports in the `eda_reports/` folder:
 - **Pandas Profiling Report**: `credit_card_fraud_eda_report.html`
 - **Sweetviz Report**: `sweetviz_report.html`
@@ -83,7 +81,7 @@ Please find their Google Drive links here:
 
 ---
 
-## 📦 Installation
+## Installation
 To set up the environment, clone the repository and install the dependencies:
 
 ```bash
